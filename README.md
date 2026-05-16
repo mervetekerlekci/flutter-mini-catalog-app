@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mini_catalog_app
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter-mini-catalog-app
+A simple Flutter mini catalog application with product listing, favorites, cart system and API integration.
+>>>>>>> 3cbd8d875c69175673a7e8b1790e3273c36d05a5
