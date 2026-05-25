@@ -1,22 +1,34 @@
-<<<<<<< HEAD
-# mini_catalog_app
+# Flutter Mini Catalog App
 
-A new Flutter project.
+A simple Flutter e-commerce catalog application developed with Flutter and Dart.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Product listing
+- Product detail page
+- Search functionality
+- Favorites system
+- Cart system
+- API integration
+- Responsive GridView UI
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- DummyJSON API
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# flutter-mini-catalog-app
-A simple Flutter mini catalog application with product listing, favorites, cart system and API integration.
->>>>>>> 3cbd8d875c69175673a7e8b1790e3273c36d05a5
+## Flutter Version
+
+Flutter 3.41.9
+
+## Run Project
+
+## Run Project
+
+```bash
+flutter pub get
+flutter run
+```
+
+
